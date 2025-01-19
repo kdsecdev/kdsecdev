@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kdsecdev
-- 👀 I’m interested in C++,Flutter,Python
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in C++,Flutter,Python,Threejs
+- 🌱 I’m currently learning Python and ThreeJs
+- 💞️ I’m looking to collaborate on C++, FLutter and Python projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
