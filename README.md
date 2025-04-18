@@ -20,8 +20,8 @@ Open to collaborating on interesting projects involving:
 
 ## 📫 Connect With Me
 - **Email**: cbotch5000@gmail.com
-- **Instagram**: [@devkd](https://instagram.com/devkd)
-- **X/Twitter**: [@devkd](https://x.com/devkd)
+- **Instagram**: [@x9z_dev](https://instagram.com/x9z_dev)
+- **X/Twitter**: [@x9z_dev](https://x.com/devkd)
 
 ## 😄 About Me
 - **Pronouns**: He/Him
