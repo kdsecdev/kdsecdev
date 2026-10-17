@@ -27,9 +27,8 @@ I'm a software developer working across C++, Python, Flutter, and the web, with 
 
 ```cpp
 struct DevKD {
-  std::string role = "Software Developer";
-  std::array<std::string, 5> focus = {"C++", "Python", "Flutter", "React", "TypeScript"};
-  std::string interest = "Security and AI";
+  std::string role = "Developer";
+  std::string focus = "Security and AI";
   std::string learning = "Unreal Engine";
 };
 ```
