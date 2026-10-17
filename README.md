@@ -101,7 +101,6 @@ struct DevKD {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kdsecdev&show_icons=true&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true&rank_icon=github" height="165" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdsecdev&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=a78bfa&langs_count=8" height="165" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=kdsecdev&theme=radical&hide_border=true&border_radius=10&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="80%" alt="GitHub contribution streak" />
