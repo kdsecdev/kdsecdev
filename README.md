@@ -80,25 +80,21 @@ struct DevKD {
 
 </div>
 
-| Project | Description | Stack | Links |
-|:--|:--|:--|:--|
-| **[Aura-Forensics](https://github.com/kdsecdev/Aura-Forensics)** | AI-assisted memory forensics that uses Volatility 3 and process triangulation to detect hidden rootkits | Python | [Code](https://github.com/kdsecdev/Aura-Forensics) |
-| **[Accra Transit Optimizer](https://github.com/kdsecdev/accra-transit-optimizer)** | Transit route and demand optimization for Accra's public transport | Python, Flutter | [Code](https://github.com/kdsecdev/accra-transit-optimizer) |
-| **[Halide](https://github.com/kdsecdev/openaihalide)** | An AI-assisted development environment focused on clearer next steps and verifiable changes | TypeScript | [Code](https://github.com/kdsecdev/openaihalide) |
-| **[Portfolio Site](https://github.com/kdsecdev/portfolio-site)** | Personal portfolio website | TypeScript, Next.js | [Code](https://github.com/kdsecdev/portfolio-site) |
-| **[CineGuide](https://github.com/kdsecdev/cineguide)** | Movie discovery and information app | React, CSS | [Live demo](https://cineguide-six.vercel.app) / [Code](https://github.com/kdsecdev/cineguide) |
+- **[Aura-Forensics](https://github.com/kdsecdev/Aura-Forensics)**: AI-assisted memory forensics using Volatility 3 and process triangulation to detect hidden rootkits. Stack: Python.
+- **[Accra Transit Optimizer](https://github.com/kdsecdev/accra-transit-optimizer)**: Transit route and demand optimization for Accra's public transport. Stack: Python, Flutter.
+- **[Halide](https://github.com/kdsecdev/openaihalide)**: An AI-assisted development environment focused on clearer next steps and verifiable changes. Stack: TypeScript.
+- **[Portfolio Site](https://github.com/kdsecdev/portfolio-site)**: Personal portfolio website. Stack: TypeScript, Next.js.
+- **[CineGuide](https://github.com/kdsecdev/cineguide)**: Movie discovery and information app. Stack: React, CSS. [Live demo](https://cineguide-six.vercel.app).
 
 <details>
 <summary><b>More projects</b></summary>
 <br/>
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| [Food Delivery App](https://github.com/kdsecdev/fooddeliveryapp) | Cross-platform food ordering app | Dart, Flutter |
-| [Flutter Projects](https://github.com/kdsecdev/Flutter-Projects) | Collection of Flutter experiments | Flutter |
-| [Java Asset Registry](https://github.com/kdsecdev/javaassetregistry) | Desktop asset registry | Java |
-| [Hillcrest Academy](https://github.com/kdsecdev/hillcrestacademy) | School website | JavaScript |
-| [World Vision Water Quality Laboratory](https://github.com/kdsecdev/World-Vision-Water-Quality-Laboratory) | Water quality laboratory website | HTML |
+- [Food Delivery App](https://github.com/kdsecdev/fooddeliveryapp): Cross-platform ordering app built with Flutter.
+- [Flutter Projects](https://github.com/kdsecdev/Flutter-Projects): Collection of Flutter experiments.
+- [Java Asset Registry](https://github.com/kdsecdev/javaassetregistry): Desktop asset registry built with Java.
+- [Hillcrest Academy](https://github.com/kdsecdev/hillcrestacademy): School website built with JavaScript.
+- [World Vision Water Quality Laboratory](https://github.com/kdsecdev/World-Vision-Water-Quality-Laboratory): Water quality laboratory website.
 
 </details>
 
