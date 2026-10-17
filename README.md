@@ -27,9 +27,9 @@ I'm a software developer working across C++, Python, Flutter, and the web, with 
 
 ```cpp
 struct DevKD {
-  std::string role = "Developer";
-  std::string focus = "Security and AI";
-  std::string learning = "Unreal Engine";
+  auto role = "Developer";
+  auto focus = "Security";
+  auto learning = "Unreal";
 };
 ```
 
