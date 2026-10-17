@@ -10,7 +10,7 @@
   <a href="https://github.com/kdsecdev/portfolio-site"><img src="https://img.shields.io/badge/Portfolio_source-0d1117?style=flat-square&logo=github&logoColor=a78bfa" alt="Portfolio source repository" /></a>
   <a href="mailto:cbotch5000@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=a78bfa" alt="Email" /></a>
   <a href="https://instagram.com/x9z_dev"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=a78bfa" alt="Instagram" /></a>
-  <a href="https://x.com/devkd"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=a78bfa" alt="X" /></a>
+  <a href="https://x.com/devkd999"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=a78bfa" alt="X" /></a>
   <a href="https://github.com/kdsecdev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=flat-square&logo=github&logoColor=a78bfa" alt="Repositories" /></a>
 </p>
 
