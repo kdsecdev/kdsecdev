@@ -12,16 +12,11 @@
   <a href="https://instagram.com/x9z_dev"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=a78bfa" alt="Instagram" /></a>
   <a href="https://x.com/devkd"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=a78bfa" alt="X" /></a>
   <a href="https://github.com/kdsecdev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=flat-square&logo=github&logoColor=a78bfa" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kdsecdev&style=flat-square&color=7c3aed&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
 
 ## About
-
-<table>
-<tr>
-<td width="56%" valign="top">
 
 I'm a software developer working across C++, Python, Flutter, and the web, with a security-first approach. I enjoy building practical tools, from AI-assisted memory forensics to transit optimization and cross-platform applications.
 
@@ -30,23 +25,14 @@ I'm a software developer working across C++, Python, Flutter, and the web, with 
 - Interested in digital forensics, secure software, and AI agents
 - Open to collaborating on security, games, mobile, and web projects
 
-</td>
-<td width="44%" valign="top">
-
 ```cpp
 struct DevKD {
   std::string role = "Software Developer";
-  std::array<std::string, 5> focus = {
-    "C++", "Python", "Flutter", "React", "TypeScript"
-  };
+  std::array<std::string, 5> focus = {"C++", "Python", "Flutter", "React", "TypeScript"};
   std::string interest = "Security and AI";
   std::string learning = "Unreal Engine";
 };
 ```
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack
 
